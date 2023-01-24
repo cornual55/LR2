@@ -1,0 +1,38 @@
+.logo {
+  text-transform: uppercase;
+  background-image: linear-gradient(#7b3fad 0%, #ff5e5e 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.card {
+  height: 100%;
+}
+
+.card .btn {
+  position: relative;
+  bottom: 0;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+/* .carousel-item {
+    height: 32rem;
+}
+
+.carousel-image {
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+} */
