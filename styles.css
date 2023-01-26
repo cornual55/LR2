@@ -236,35 +236,3 @@ main {
 .products__content p {
   font-size: 0.9rem;
 }
-
-.products__card img {
-  /* border-radius: 50px; */
-}
-
-/*
-.products__container {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  width: 100vw;
-  max-width: 1300px;
-}
-
-.products__container p {
-  max-width: 271px;
-  text-align: justify;
-}
-
-.products__card {
-  background-color: #72c3c9;
-  padding: 25px;
-  border-radius: 20px;
-  z-index: 1;
-}
-
-.products__card img {
-  transform: scale(1.2) translate(0%, -5%);
-  position: relative;
-  background-clip: content-box;
-  z-index: 2;
-} */

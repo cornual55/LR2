@@ -1,9 +1,3 @@
-header {
-  position: sticky;
-  top: 0;
-  z-index: 999;
-}
-
 .navbar__logo {
   text-transform: uppercase;
   background-image: linear-gradient(#7b3fad 0%, #ff5e5e 100%);
@@ -32,7 +26,7 @@ header {
 }
 
 .carousel-item {
-  height: 37rem;
+  height: 38rem;
 }
 
 .carousel-caption h5 {
@@ -49,8 +43,6 @@ header {
   width: 100%;
   height: 100%;
 }
-
-
 
 /* .carousel-item {
     height: 32rem;
