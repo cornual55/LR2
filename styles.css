@@ -96,6 +96,7 @@ picture {
   color: transparent;
 }
 
+<<<<<<< HEAD
 .about__information-item > * {
   vertical-align: middle;
 }
@@ -110,3 +111,8 @@ picture {
     font-size: 3.8em;
   }
 }
+=======
+.products__content p {
+  font-size: 0.9rem;
+}
+>>>>>>> 73a393e0f8bf14592c00fe03c96da0669e0dd1d3
